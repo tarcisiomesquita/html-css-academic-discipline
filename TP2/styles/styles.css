@@ -1,0 +1,80 @@
+body {
+    font-size: 100%;
+    background-color:antiquewhite;
+    margin: 10px
+}
+
+.menu {
+    margin: 25px 0px 25px 0px;
+    font-size: 0.8em;
+    word-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu li {
+    display: inline
+}
+
+h2, h1 {
+    color: #947f51;
+    margin: 20px 0 20px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 1.3em; 
+}
+
+h2 {
+    font-size: 1.05em;
+}
+
+.cardapio h1 {
+    font-size: 1.8em;
+}
+
+p {
+    font-size: 0.85em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cardapio {
+    margin: 20px 0 20px 0;
+}
+
+th, td {
+    font-family: 'Roboto', sans-serif;
+}
+
+td {
+    vertical-align: top;
+    padding: 5px;
+}
+tfoot td{
+    text-align: center;
+    background-color: #dcb0a1;
+}
+
+.tipo-de-bebida {
+    display: block;
+    font-weight: bold;
+}
+
+#contato-formulario {
+    width: 400px;
+    height: 275px;
+    border: 2px solid #947f51;
+    
+}
+
+#contato-formulario label {
+    display: block;
+}
+
+.botao {
+    font-weight: bold;
+}
+
+#contato-formulario div {
+    margin: 15px;
+}
